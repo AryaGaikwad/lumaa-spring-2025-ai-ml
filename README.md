@@ -43,7 +43,7 @@ This approach combines both content-based filtering and genre-based preferences,
 
        🔍 Top 10 Recommendations:
        
-       1. 🎬 A StoryBots Space Adventure
+       1. 🎬 A StoryBots Space Adventure<br>
              📖 Join the StoryBots and the space travelers of the historic Inspiration4 mission as they search for answers to kids' questions about space.
              🌎 []
              🎭 Genres: animation
