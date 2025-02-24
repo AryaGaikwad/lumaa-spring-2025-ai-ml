@@ -29,8 +29,8 @@ This approach combines both content-based filtering and genre-based preferences,
    - Python version, virtual environment instructions, and how to install dependencies (`pip install -r requirements.txt`).  
 3. **Running**: Run the **main.ipynb** notebook
 4.    **Results**: 
-        User query: "I love space action movies"
-       📌 Detected Genres: ['action']
+        User query: "I love space action movies"<br>
+       📌 Detected Genres: ['action']<br>
 
        🔍 Top 10 Recommendations:
        
