@@ -15,6 +15,10 @@ If the user specifies a preferred country, the system filters the recommendation
 This approach combines both content-based filtering and genre-based preferences, providing diverse and relevant movie suggestions based on the user’s input.
 
 ---
+## Video Link
+1. Link = "https://drive.google.com/file/d/1B5FkmcRccOCfWZmTi-xb26oD-JoURVQ7/view?usp=sharing"
+   
+---
 
 ## Requirements
 
@@ -23,21 +27,8 @@ This approach combines both content-based filtering and genre-based preferences,
      
 2. **Setup**:
    - Python version, virtual environment instructions, and how to install dependencies (`pip install -r requirements.txt`).  
-3. **Running**: Run the **main.ipynb** notebook 
-4. **Results**:
-   
-
-
-4. **Output**  
-   - When given an input description (e.g., `"I like action movies set in space"`), your system should print or return a list of recommended items (e.g., 3–5 titles).  
-   - Include the similarity score or rank if you’d like.
-
-5. **Summary & Instructions**  
-   - A short `README.md` that includes:
-     - **Dataset**: Where it’s from, any steps to load it.  
-     - **Setup**: Python version, virtual environment instructions, and how to install dependencies (`pip install -r requirements.txt`).  
-     - **Running**: How to run your code (e.g., `python recommend.py "Some user description"` or open your notebook in Jupyter).  
-     - **Results**: A brief example of your system’s output for a sample query.
+3. **Running**: Run the **main.ipynb** notebook
+4.    **Results**: 
         User query: "I love space action movies"
        📌 Detected Genres: ['action']
 
